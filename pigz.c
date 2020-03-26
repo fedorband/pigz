@@ -189,6 +189,7 @@
  */
 
 #define VERSION "pigz 2.4\n"
+#define TEST_ONE "tst1"
 
 /* To-do:
     - make source portable for Windows, VMS, etc. (see gzip source code)
